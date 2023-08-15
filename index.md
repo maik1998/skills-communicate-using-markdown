@@ -6,3 +6,8 @@
 var HolaMundo= "Hola Mundo";
 console.log(HolaMundo);
 ```
+
+### Lista de pendientes
+- [ ] Terminar el trabajo de grado
+- [ ] Sacar las canciones para tocar en septiembre
+- [x] Hacer el almuerzo
